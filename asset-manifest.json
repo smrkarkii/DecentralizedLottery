@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DecentralizedLottery/static/css/main.e933fa26.css",
+    "main.js": "/DecentralizedLottery/static/js/main.54863d5e.js",
+    "static/js/453.56f46472.chunk.js": "/DecentralizedLottery/static/js/453.56f46472.chunk.js",
+    "index.html": "/DecentralizedLottery/index.html",
+    "main.e933fa26.css.map": "/DecentralizedLottery/static/css/main.e933fa26.css.map",
+    "main.54863d5e.js.map": "/DecentralizedLottery/static/js/main.54863d5e.js.map",
+    "453.56f46472.chunk.js.map": "/DecentralizedLottery/static/js/453.56f46472.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e933fa26.css",
+    "static/js/main.54863d5e.js"
+  ]
+}
