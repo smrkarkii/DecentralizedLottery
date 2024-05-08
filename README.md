@@ -10,5 +10,5 @@ Decentralized Lottery is a decentralized web application that enables users to p
 - Node.js
 - React.js
 - Infura
--Mocha
+- Mocha
 
